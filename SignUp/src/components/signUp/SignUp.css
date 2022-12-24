@@ -1,0 +1,50 @@
+body{
+    background-color: #F7F8F9;
+}
+
+/* logo in middle */
+.logo{
+
+    display: block;
+    width:250px;
+    margin: 0 auto;
+}
+
+/* to design the complete form and poy it on the middle */
+.signUp-form{
+    padding: 15px;
+    background-color: white;
+    box-shadow: rgba(99,99,99,0.2) 0px 2px 8px 0;
+    max-width: 500px;    
+    margin: auto;
+}
+
+/* to design all input button except the create account button*/
+.input-form{
+    border: 1px solid #0084BD;
+    background-color: #F7F8F9;
+    border-radius: 8px;
+}
+
+
+
+/* design th buttom create account*/
+.btn-size{
+    width:100%;
+    border: 1px solid;
+    border-radius: 8px;
+
+}
+
+/*design (already have an account)  */
+.alr{
+    font-size: 14px;
+    margin: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
